@@ -44,3 +44,8 @@
 
 <div width="100%" align="center"><a href="https://github.com/oladee/oladee" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=oladee&repo=oladee&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ginny100&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ginny100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
