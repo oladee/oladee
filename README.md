@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😊 i'm Momoh Oladimeji
-- 🔭 I’m currently working on being a full stack developer
-- 🌱 I’m currently learning React.js and React native
+- 🔭 I’m currently working on being a full stack engineer
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on projects involving either front and back end or both 
 - 🤔 Currently a Mechanical engineering student in Lagos state University
 - 💬 Ask me About Web Dev, Unix, Version control and Open source
