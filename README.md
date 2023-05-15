@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😊 i'm Momoh Oladimeji
+- 😊 i'm Momoh Oladimeji..
 - 🔭 I’m currently working on being a full stack engineer
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on projects involving either front and back end or both 
