@@ -11,6 +11,8 @@
 - ### Skills
 
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=l20vrhzzje9vsb2lneqlvkih4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=l20vrhzzje9vsb2lneqlvkih4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)]]
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
