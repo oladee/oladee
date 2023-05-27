@@ -30,6 +30,10 @@
 
 <p align="left"> <a href="https://www.github.com/oladee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oladimeji-momoh-b5484b156/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+
+
+[![spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=l20vrhzzje9vsb2lneqlvkih4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=l20vrhzzje9vsb2lneqlvkih4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)]]
+
 ### Badges
 
 <b>My GitHub Stats</b>
